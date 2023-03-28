@@ -1,0 +1,26 @@
+digraph G {
+v0 [label =  " (0)" shape=triangle];
+v1 [label =  "0 (1)" shape=invtriangle];
+v1 -> v0;
+v2 [label =  " (2)" shape=triangle];
+v3 [label =  "0 (3)" shape=invtriangle];
+v3 -> v2;
+v4 [label =  " (4)" shape=triangle];
+v5 [label =  "0 (5)" shape=invtriangle];
+v5 -> v4;
+v6 [label =  " (6)" shape=triangle];
+v7 [label =  "1 (7)" shape=invtriangle];
+v7 -> v6;
+v8 [label =  " (8)" shape=triangle];
+v9 [label =  "1 (9)" shape=invtriangle];
+v9 -> v8;
+v10 [label =  " (10)" shape=triangle];
+v11 [label =  "0 (11)" shape=invtriangle];
+v11 -> v10;
+v12 [label =  " (12)" shape=triangle];
+v13 [label =  "1 (13)" shape=invtriangle];
+v13 -> v12;
+v14 [label =  " (14)" shape=triangle];
+v15 [label =  "0 (15)" shape=invtriangle];
+v15 -> v14;
+}
